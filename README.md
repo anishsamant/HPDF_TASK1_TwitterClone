@@ -12,14 +12,10 @@ Follow the instructions given in the following link as per your requirements and
 https://facebook.github.io/react-native/docs/getting-started.html
 
 <h3>To clone the repository and run on device:-</h3>
-```javascript
-
-git clone https://github.com/chinmoyeedash/HPDF_TwitterApp.git<br>
-cd HPDF_TwitterApp<br>
-npm install (to install project dependencies)<br>
-react-native run-android (This will run the app on your connected emulator or development device)
 
  ```
+ 
 
 
+ ```
 
