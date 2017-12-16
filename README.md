@@ -11,11 +11,37 @@ It contains 3 screens:- <br>
 Follow the instructions given in the following link as per your requirements and specifications.<br>
 https://facebook.github.io/react-native/docs/getting-started.html
 
-<h3>To clone the repository and run on device:-</h3>
+<h3>To clone the repository:-</h3>
 
  ```
- git clone 
-
+ 
+ $ git clone https://github.com/anishsamant/HPDF_TASK1_TwitterClone
+ $ cd HPDF_TASK1_TwitterClone
+ $ npm install
+ 
+ ```
+ 
+<h3> To run on android emulator:- </h3>
+1) After following the steps to clone the repository
+2) Start the emulator
+3) Enter the following command
 
  ```
+ 
+ $ react-native run-android   //for android
+ $ react-native run-ios       //for ios
+ 
+ ```
+ 
+<h3> To run on device:- </h3>
+1) After following the steps to clone the repository
+2) Install the expo app on your device
+3) Enter the following command
 
+ ```
+ 
+ npm start
+ 
+ ```
+ 
+4) Scan the qr code from the expo app
