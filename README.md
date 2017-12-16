@@ -34,13 +34,14 @@ https://facebook.github.io/react-native/docs/getting-started.html
  ```
  
 <h3> To run on device:- </h3>
-1) Install the expo app on your device<br>
+1) Connect your device via USB<br>
 2) After following the steps to clone the repository<br>
 3) Enter the following command
 
  ```
  
- $ npm start
+ $ react-native run-android   //for android
+ $ react-native run-ios       //for ios
  
  ```
 4) Scan the qr code from the expo app
