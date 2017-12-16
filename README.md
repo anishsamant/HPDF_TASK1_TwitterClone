@@ -14,7 +14,7 @@ https://facebook.github.io/react-native/docs/getting-started.html
 <h3>To clone the repository and run on device:-</h3>
 
  ```
- 
+ git clone 
 
 
  ```
