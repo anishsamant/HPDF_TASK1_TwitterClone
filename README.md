@@ -43,5 +43,4 @@ https://facebook.github.io/react-native/docs/getting-started.html
  npm start
  
  ```
- 
 4) Scan the qr code from the expo app
