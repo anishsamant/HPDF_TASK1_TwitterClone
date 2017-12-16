@@ -21,9 +21,9 @@ https://facebook.github.io/react-native/docs/getting-started.html
  
  ```
  
-<h3> To run on android emulator:- </h3>
-1) After following the steps to clone the repository
-2) Start the emulator
+<h3> To run on emulator:- </h3>
+1) After following the steps to clone the repository<br>
+2) Start the emulator<br>
 3) Enter the following command
 
  ```
@@ -34,8 +34,8 @@ https://facebook.github.io/react-native/docs/getting-started.html
  ```
  
 <h3> To run on device:- </h3>
-1) After following the steps to clone the repository
-2) Install the expo app on your device
+1) Install the expo app on your device<br>
+2) After following the steps to clone the repository<br>
 3) Enter the following command
 
  ```
