@@ -44,4 +44,4 @@ https://facebook.github.io/react-native/docs/getting-started.html
  $ react-native run-ios       //for ios
  
  ```
-4) Scan the qr code from the expo app
+ 
