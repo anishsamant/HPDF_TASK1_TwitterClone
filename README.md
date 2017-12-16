@@ -7,11 +7,17 @@ It contains 3 screens:- <br>
 3) Search Screen<br>
 <b>Note: Full fledged app is in progess </b>
 
-<h3>To set up react-native environment:</h3>
+<h3>To set up react-native environment:-</h3>
 Follow the instructions given in the following link as per your requirements and specifications.<br>
 https://facebook.github.io/react-native/docs/getting-started.html
 
-<h3>To clone the repository and run on device:</h3>
+<h3>To clone the repository and run on device:-</h3>
+```
+git clone https://github.com/chinmoyeedash/HPDF_TwitterApp.git
+cd HPDF_TwitterApp
+npm install (to install project dependencies)
+react-native run-android (This will run the app on your connected emulator or development device)
+ ```
 
 
 
