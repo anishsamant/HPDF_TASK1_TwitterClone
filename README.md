@@ -22,8 +22,8 @@ https://facebook.github.io/react-native/docs/getting-started.html
  ```
  
 <h3> To run on emulator:- </h3>
-1) After following the steps to clone the repository<br>
-2) Start the emulator<br>
+1) Start the emulator<br>
+2) Go to your project directory<br>
 3) Enter the following command
 
  ```
@@ -35,7 +35,7 @@ https://facebook.github.io/react-native/docs/getting-started.html
  
 <h3> To run on device:- </h3>
 1) Connect your device via USB<br>
-2) After following the steps to clone the repository<br>
+2) Go to your project directory<br>
 3) Enter the following command
 
  ```
